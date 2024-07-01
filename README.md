@@ -1,6 +1,4 @@
-# to create a gke cluster and its associated network components 
-# obtain privileges for the serivce account is being used
-# source the service account key on local to initiate the tf
+# create a gke cluster and its network components 
 
 cd infra
 
