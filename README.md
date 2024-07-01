@@ -1,4 +1,6 @@
-# create a gke cluster and its network components 
+# Runbook 
+
+# Crete a gke cluster and its components
 
 cd infra
 
